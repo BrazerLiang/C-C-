@@ -78,5 +78,5 @@ int main(){
 	string ans = bfs(in);
 	cout<<ans.size()<<endl;
 	
-	return 0;
+	return 0; 
 }
